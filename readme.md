@@ -32,3 +32,5 @@
 * homebrew
 * jabba
 * node
+* https://github.com/keycastr/keycastr
+* macFans
